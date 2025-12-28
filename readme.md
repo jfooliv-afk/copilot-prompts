@@ -2,159 +2,208 @@
 
 ---
 
-# 📆 **Cronograma de Estudos João Francisco — 120 Dias (Cybersecurity)**  
-**Autor:** João – Cybersecurity Student & Future Specialist  
-**Carga semanal:** 7 horas  
-**Formato sugerido:** 1h por dia ou 2–3 sessões mais longas
+
+**Carreira escolhida:** Desenvolvedor Web (JavaScript)  
+**Horas semanais:** 7h  
+**Experiência:** Zero  
+**Objetivo:** Transição de carreira  
+**Preferência:** Código  
+**Interesses:** Desenvolvimento web, dados, IA, experiência prévia com monitoramento e CFTV  
 
 ---
 
-# 🔵 **MÊS 1 — FUNDAMENTOS (Semanas 1 a 4)**
+# 🎬 **INICIAR CONVERSA**
 
-## **SEMANA 1 — Redes + Linux básico**
-- 2h — Conceitos de redes (TCP/IP, DNS, HTTP)  
-- 2h — Instalar Linux (VM) e explorar interface  
-- 2h — Comandos básicos (ls, cd, mkdir, grep, chmod)  
-- 1h — Criar GitHub + configurar Git local  
+"Olá! Recebi suas informações do entrevistador.  
 
----
+Vejo que você escolheu **Desenvolvedor Web (JavaScript)** e tem **7 horas por semana** para estudar. Perfeito!
 
-## **SEMANA 2 — Linux + GitHub**
-- 2h — Navegação avançada no Linux (pipes, redirecionamento, processos)  
-- 2h — Permissões, usuários e grupos  
-- 2h — Criar primeiro repositório e subir anotações  
-- 1h — Criar README simples  
+Vou montar agora seu plano completo personalizado..."
 
 ---
 
-## **SEMANA 3 — Fundamentos de Segurança**
-- 2h — Modelo CIA, autenticação, hashing, criptografia  
-- 2h — Ataques comuns (phishing, brute force, MITM)  
-- 2h — Python básico (variáveis, loops, funções)  
-- 1h — Subir exercícios no GitHub  
+# 🧩 **VISÃO DO DIA A DIA**
+
+Como é o trabalho de um **Desenvolvedor Web (JavaScript)**:
+
+- Criar interfaces e funcionalidades usando HTML, CSS e JavaScript  
+- Desenvolver páginas responsivas e componentes reutilizáveis  
+- Consumir APIs e integrar dados ao front-end  
+- Resolver bugs e otimizar desempenho  
+- Versionar código e colaborar via GitHub  
 
 ---
 
-## **SEMANA 4 — Python + GitHub**
-- 2h — Python para automação (arquivos, requests, regex)  
-- 2h — Criar script simples (ex: leitura de logs)  
-- 2h — Documentar script no GitHub  
-- 1h — Revisão geral do mês  
+# 🧠 **MAPA DE SKILLS**
+
+### **CORE SKILLS (essenciais):**
+- Lógica de programação  
+- JavaScript moderno (ES6+)  
+- HTML e CSS  
+
+### **NICE-TO-HAVE (complementares):**
+- React.js  
+- Noções de APIs e JSON  
+
+### **FERRAMENTAS E TECNOLOGIAS:**
+- VS Code  
+- Git e GitHub  
+- GitHub Pages  
+- Navegador (DevTools)
 
 ---
 
-# 🟢 **MÊS 2 — PRÁTICA TÉCNICA (Semanas 5 a 8)**
-
-## **SEMANA 5 — Nmap**
-- 2h — Instalação e fundamentos do Nmap  
-- 2h — Scans básicos e avançados  
-- 2h — Criar relatório simples  
-- 1h — Subir relatório no GitHub  
+# 📅 **ROADMAP DE 100 DIAS (7h/semana)**
 
 ---
 
-## **SEMANA 6 — Wireshark**
-- 2h — Interface e filtros básicos  
-- 2h — Captura de tráfego real  
-- 2h — Análise de pacotes HTTP/DNS  
-- 1h — Criar repositório “Wireshark-Learning”  
+## **MÊS 1 – FUNDAMENTOS (Dias 1–30)**
+
+### **SEMANA 1–2 (Dias 1–14): HTML + CSS + GitHub básico**
+- Estrutura da web (HTML tags, semântica)  
+- CSS básico (cores, espaçamentos, flexbox)  
+- Criar conta no GitHub  
+- Comandos básicos: `git init`, `git add`, `git commit`, `git push`  
+- Criar primeiro repositório e subir arquivos simples  
+
+### **SEMANA 3–4 (Dias 15–30): Lógica + JavaScript básico**
+- Variáveis, funções, condicionais, loops  
+- Arrays e objetos  
+- Criar repositório “exercícios-js”  
+- Aprender branches: `git branch`, `git checkout`, `git merge`  
 
 ---
 
-## **SEMANA 7 — OWASP Top 10**
-- 2h — Estudar vulnerabilidades (XSS, SQLi, CSRF, IDOR)  
-- 2h — Instalar DVWA ou Juice Shop  
-- 2h — Explorar vulnerabilidades simples  
-- 1h — Criar repositório “OWASP-Learning”  
+## **MÊS 2 – JAVASCRIPT NA PRÁTICA (Dias 31–60)**
+
+### **SEMANA 5–6 (Dias 31–45): DOM + Eventos + GitHub intermediário**
+- Manipulação do DOM  
+- Eventos (click, input, submit)  
+- Criar mini-projetos: to-do list, calculadora  
+- GitHub: pull requests, issues, README profissional  
+
+### **SEMANA 7–8 (Dias 46–60): APIs + Assíncrono**
+- `fetch()`  
+- Promises  
+- `async/await`  
+- Criar mini-projeto consumindo API  
+- Publicar no GitHub Pages  
 
 ---
 
-## **SEMANA 8 — Documentação técnica**
-- 2h — Criar relatórios de vulnerabilidades  
-- 2h — Praticar mitigação  
-- 2h — Subir relatórios no GitHub  
-- 1h — Revisão geral do mês  
+## **MÊS 3 – REACT + PROJETO (Dias 61–90)**
+
+### **SEMANA 9–10 (Dias 61–75): React básico**
+- Componentes  
+- Props  
+- Estado (useState)  
+- Criar projeto simples em React  
+- Subir no GitHub com README completo  
+
+### **SEMANA 11–12 (Dias 76–90): React intermediário**
+- useEffect  
+- Rotas (React Router)  
+- Consumo de API no React  
+- Criar mini-dashboard  
 
 ---
 
-# 🟡 **MÊS 3 — AUTOMAÇÃO E SEGURANÇA WEB (Semanas 9 a 12)**
+## **MÊS 4 – PORTFÓLIO + ENTREVISTAS (Dias 91–100)**
 
-## **SEMANA 9 — Python para Segurança**
-- 2h — Criar scanner de portas com socket  
-- 2h — Criar analisador de logs  
-- 2h — Testar scripts em ambientes reais  
-- 1h — Subir tudo no GitHub  
-
----
-
-## **SEMANA 10 — Automação avançada**
-- 2h — Script de verificação de headers  
-- 2h — Script de checagem de vulnerabilidades básicas  
-- 2h — Criar README profissional  
-- 1h — Criar issues e milestones no GitHub  
+### **SEMANA 13–14 (Dias 91–100): Finalização**
+- Criar projeto final  
+- Revisar código  
+- Criar README profissional  
+- Publicar no GitHub Pages  
+- Preparar currículo e LinkedIn  
+- Simular entrevistas técnicas  
 
 ---
 
-## **SEMANA 11 — Burp Suite**
-- 2h — Instalação e interface  
-- 2h — Proxy + interceptação  
-- 2h — Testes simples em aplicações web  
-- 1h — Documentar no GitHub  
+# 🚀 **PROJETO DE PORTFÓLIO**
+
+### **PROJETO: Dashboard de Monitoramento Web**
+
+### **O QUE FAZER:**
+Criar uma aplicação web que exibe dados de uma API (clima, sensores, câmeras fictícias etc.) em cartões e gráficos simples.
+
+### **ENTREGÁVEIS:**
+- Página responsiva  
+- Consumo de API real  
+- Componentes interativos em JavaScript  
+
+### **CRITÉRIOS DE ACEITAÇÃO:**
+- Atualização automática dos dados  
+- Layout organizado e funcional  
+- Código versionado no GitHub  
+
+### **DICA:**  
+Use sua experiência com **monitoramento e CFTV** para criar um tema de “central de controle”.
 
 ---
 
-## **SEMANA 12 — Relatórios profissionais**
-- 2h — Criar relatório técnico completo  
-- 2h — Criar checklist de segurança  
-- 2h — Criar repositório “Web-Security-Reports”  
-- 1h — Revisão geral do mês  
+# 💬 **ROTEIRO DE ENTREVISTAS**
+
+### **PERGUNTA 1:** “Fale sobre você.”  
+**COMO RESPONDER:**  
+- Quem você é  
+- Por que escolheu tecnologia  
+- Como sua experiência anterior ajuda (monitoramento → lógica, atenção, sistemas)
 
 ---
 
-# 🔴 **MÊS 4 — PORTFÓLIO, RELATÓRIOS E ENTREVISTAS (Semanas 13 a 16)**
-
-## **SEMANA 13 — Projeto Final (Parte 1)**
-- 2h — Planejar Security Automation Toolkit  
-- 2h — Criar estrutura do repositório  
-- 2h — Criar primeiros scripts  
-- 1h — Criar README inicial  
-
----
-
-## **SEMANA 14 — Projeto Final (Parte 2)**
-- 2h — Finalizar scripts  
-- 2h — Criar documentação avançada  
-- 2h — Criar exemplos de uso  
-- 1h — Criar versão final do README  
+### **PERGUNTA 2:** “Qual projeto você fez recentemente?”  
+**COMO RESPONDER:**  
+- Problema  
+- Solução  
+- Tecnologias  
+- Aprendizado  
 
 ---
 
-## **SEMANA 15 — Preparação para Entrevistas**
-- 2h — Revisar fundamentos de segurança  
-- 2h — Revisar redes e Linux  
-- 2h — Simular entrevistas técnicas  
-- 1h — Criar respostas estruturadas  
+### **PERGUNTA 3:** “Como você lida com bugs?”  
+**COMO RESPONDER:**  
+- Reproduzir  
+- Investigar  
+- Testar hipóteses  
+- Documentar  
 
 ---
 
-## **SEMANA 16 — Fechamento da Transição**
-- 2h — Criar currículo focado em cybersecurity  
-- 2h — Criar perfil LinkedIn otimizado  
-- 2h — Organizar portfólio GitHub  
-- 1h — Planejar próximos 6 meses  
+### **PERGUNTA 4:** “Você já trabalhou em equipe?”  
+**COMO RESPONDER:**  
+- Cite experiências anteriores  
+- Mostre colaboração  
+- Fale sobre comunicação clara  
 
 ---
 
-# 🎯 **Resultado Final**
-Ao final dos 120 dias você terá:
+### **PERGUNTA 5:** “Por que devemos te contratar?”  
+**COMO RESPONDER:**  
+- Disciplina  
+- Evolução  
+- Motivação para transição  
 
-- Portfólio completo no GitHub  
-- Scripts de automação em Python  
-- Relatórios técnicos profissionais  
-- Experiência prática com Nmap, Wireshark e Burp Suite  
-- Base sólida em redes, Linux e OWASP  
-- Preparação para entrevistas  
-- Estrutura para buscar vagas júnior em Cybersecurity  
+---
+
+# 🎓 **TRILHA DIO RECOMENDADA**
+
+### **TRILHA:** *Formação JavaScript Developer – DIO*
+
+### **POR QUE ESSA TRILHA:**  
+Cobre fundamentos, JavaScript moderno, GitHub, projetos práticos e front-end.
+
+### **PRÓXIMOS PASSOS:**
+1. Acesse dio.me  
+2. Busque por **"Formação JavaScript Developer"**  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+
+
+
 
 ---
 
